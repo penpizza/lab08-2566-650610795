@@ -14,7 +14,7 @@ export default function Home() {
         {/* task input */}
         <TaskInput />
         {/* task */}
-        <Task title ="Read" />
+        <Task title ="Read a book" />
         {/* task */}
         <Task title ="Take a shower" />
         {/* task */}
